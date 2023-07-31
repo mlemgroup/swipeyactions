@@ -1,2 +1,3 @@
 # swipeyactions
-A simple viewModifier for adding Mlem-style swipe actions to views.
+
+A simple, source-available viewModifier for adding Mlem-style swipe actions to views.
